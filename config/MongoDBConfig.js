@@ -1,0 +1,1 @@
+exports.uri = "mongodb://admin:admin@localhost:27017";
